@@ -1,0 +1,8 @@
+Check List
+Цель -
+Исполнитель
+
+Номер - №
+Проверка - title
+Ожидаемый результат - expected result
+Статус - pass/fail
